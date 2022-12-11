@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @PratikSPatil14
 - 👀 I’m interested in coding
+- Currently persuing B.tech in Computer Engineering in VIT, Pune
 - 🌱 I’m currently learning C, C++, Python
 - working with AI,ML,Web Developement, App Developement
 - 💞️ I’m looking to collaborate on ...
